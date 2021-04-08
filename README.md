@@ -16,5 +16,5 @@ Project is created with:
 This is a sample of Muzix.
 Hope you like it!
 ```
-![](images/1.jpeg)
+![](Image/Sample.jpg)
 ```
